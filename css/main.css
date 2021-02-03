@@ -97,8 +97,7 @@ img {max-width: 900px;
   width: 5em;
   background-color: #008000;
   border-radius: 50%;
-
-  display: flex; /* or inline-flex */
+  display: inline-block;
   align-items: center; 
   justify-content: center;
 }

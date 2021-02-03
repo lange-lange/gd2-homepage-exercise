@@ -92,7 +92,7 @@ img {max-width: 900px;
 
 
 .dot {
-  z-index: 1;
+  z-index: 2;
   height: 2em;
   width: 2em;
   background-color: #008000;

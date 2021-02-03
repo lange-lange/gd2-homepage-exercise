@@ -71,7 +71,7 @@ ul li::before {
 p {
 font-size: 2em;
  text-transform: uppercase;
-letter-spacing: 10px;
+letter-spacing: 6px;
 }
 
 p2 {
@@ -93,8 +93,8 @@ img {max-width: 900px;
 
 .dot {
   z-index: 2;
-  height: 2em;
-  width: 2em;
+  height: 3em;
+  width: 3em;
   background-color: #008000;
   border-radius: 75%;
   display: flex; /* or inline-flex */

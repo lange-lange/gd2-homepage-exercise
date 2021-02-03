@@ -92,10 +92,10 @@ img {max-width: 900px;
 
 
 .dot {
-  z-index: 2;
+  z-index: 1;
   height: 5em;
   width: 5em;
-  background-color: ##008000;
+  background-color: #008000;
   border-radius: 50%;
   display: inline-block;
 }

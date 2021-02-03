@@ -96,7 +96,7 @@ img {max-width: 900px;
   height: 3em;
   width: 3em;
   background-color: #008000;
-  border-radius: 1em; /* one half of ( (border * 2) + height + padding ) */
+  border-radius: 3em;
   align-items: center; 
   justify-content: center;
 }

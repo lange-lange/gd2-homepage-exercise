@@ -91,3 +91,11 @@ img {max-width: 900px;
 }
 
 
+.dot {
+  z-index: 2;
+  height: 5em;
+  width: 5em;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}

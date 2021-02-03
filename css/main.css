@@ -98,6 +98,7 @@ img {max-width: 900px;
   background-color: #008000;
   border-radius: 50%;
   display: inline-block;
+  display: flex; /* or inline-flex */
   align-items: center; 
   justify-content: center;
 }

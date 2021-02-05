@@ -82,8 +82,9 @@ ul li::before {
 
 
 p {
+font-family: Georgia Pro, sans-serif;
 font-size: 2em;
- text-transform: uppercase;
+text-transform: uppercase;
 letter-spacing: 6px;
 }
 

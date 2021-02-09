@@ -117,7 +117,7 @@ img {max-width: 600px;
 .pill {
   height: 3em;
   width: 3em;
-  background-color: red;
+  background-color: #dd0000;
   color: #FFF;
   border-radius: 3em;
   align-items: center; 

@@ -10,14 +10,10 @@ a:hover {
   background-color: rgba(255,204,0,1);
 }
 
-
 hanging-punctuation: none | [ first || [ force-end | allow-end ] || last ]
 blockquote p {
   hanging-punctuation: first;
 }
-
-
-
 
 h1 {
   font-family: Druk, sans-serif;
@@ -51,15 +47,6 @@ background: radial-gradient(circle, rgba(255,204,0,1) 0%, rgba(254,254,254,1) 10
 }
 
 
-
-
-
-
-
-
-
-
-
 li {
  font-size: 2em;
 }
@@ -77,10 +64,6 @@ ul li::before {
   margin-left: 0em; /* Also needed for space (tweak if needed) */
 }
 
-
-
-
-
 p 
 {
 font-family: Georgia Pro, Times, serif;
@@ -94,21 +77,15 @@ font-size: 3em;
 letter-spacing: -1px;
 }
 
-
 caption 
 {
 font-family: Georgia Pro, Times, serif;
 font-size: 1em;
 }
 
-
-
-
 img {max-width: 600px;
  border: 10px solid rgba(255,204,0,1);
 }
-
-
 
 .center {
   display: block;
@@ -116,8 +93,6 @@ img {max-width: 600px;
   margin-right: auto;
   width: 50%;
 }
-
-
 
 .pill {
   height: 3em;
@@ -128,3 +103,22 @@ img {max-width: 600px;
   align-items: center; 
   justify-content: center;
 }
+
+ #leftbox { 
+                float:left;  
+                background:Red; 
+                width:25%; 
+                height:280px; 
+            } 
+            #middlebox{ 
+                float:left;  
+                background:Green; 
+                width:50%; 
+                height:280px; 
+            } 
+            #rightbox{ 
+                float:right; 
+                background:blue; 
+                width:25%; 
+                height:280px; 
+            } 

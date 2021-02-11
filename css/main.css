@@ -121,12 +121,14 @@ img {max-width: 600px;
                 float:left;  
                 background:Red; 
                 width:50%; 
-                height:400px; 
+                height:400px;
+                margin-bottom: 30px; 
             } 
           
 #rightbox{ 
                 float:right; 
                 background:blue; 
                 width:50%; 
-                height:400px; 
+                height:400px;
+                margin-bottom: 30px; 
             } 

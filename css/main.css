@@ -107,18 +107,13 @@ img {max-width: 600px;
  #leftbox { 
                 float:left;  
                 background:Red; 
-                width:25%; 
-                height:280px; 
-            } 
-            #middlebox{ 
-                float:left;  
-                background:Green; 
                 width:50%; 
-                height:280px; 
+                height:400px; 
             } 
-            #rightbox{ 
+          
+#rightbox{ 
                 float:right; 
                 background:blue; 
-                width:25%; 
-                height:280px; 
+                width:50%; 
+                height:400px; 
             } 

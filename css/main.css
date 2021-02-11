@@ -83,7 +83,7 @@ font-family: Georgia Pro, Times, serif;
 font-size: 2em;
 text-transform: uppercase;
 letter-spacing: 6px;
-text-align: right;
+text-align: center;
 }
 
 p2 {
@@ -133,3 +133,12 @@ img {max-width: 600px;
                 height:400px;
                 margin-bottom: 30px; 
             } 
+
+.blended {
+  background-image: url(images/laiken-brain-2021.png);
+  background-color: green;
+  background-blend-mode: multiply;
+}
+
+
+

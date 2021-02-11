@@ -46,6 +46,23 @@ background: radial-gradient(circle, rgba(255,204,0,1) 0%, rgba(254,254,254,1) 10
   font-weight: 300;
 }
 
+h3 {
+  font-family: Druk, sans-serif;
+  text-transform: uppercase;
+  font-size: 3em;
+  text-align:center;
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 50px 10px;
+  line-height: 1em;
+background: rgb(166,0,255);
+background: radial-gradient(circle, rgba(255,204,0,1) 0%, rgba(254,254,254,1) 100%);;
+  color: #000;
+  font-weight: 300;
+}
+
+
+
 
 li {
  font-size: 2em;
@@ -104,7 +121,7 @@ img {max-width: 600px;
   justify-content: center;
 }
 
- #leftbox { 
+#leftbox { 
                 float:left;  
                 background:Red; 
                 width:50%; 

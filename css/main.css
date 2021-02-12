@@ -80,10 +80,10 @@ ul li::before {
 p 
 {
 font-family: Georgia Pro, Times, serif;
-font-size: 2em;
+font-size: 1.5em;
 text-transform: uppercase;
 letter-spacing: 6px;
-text-align: center;
+text-align: left;
 }
 
 p2 {
